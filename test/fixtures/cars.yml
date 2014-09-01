@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  carname: MyString
+  carprice: 1.5
+
+two:
+  carname: MyString
+  carprice: 1.5
